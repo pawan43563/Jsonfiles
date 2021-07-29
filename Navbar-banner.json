@@ -1,0 +1,45 @@
+{
+  "Humburger":{
+      "imageSrc":" https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png"
+  },
+  "navData": {
+      "logo": {
+        "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+        "alt": "Surfboard India Company Logo"
+      },
+      "navLinks": [
+        { "linkId": "li1", "title": "Home", "href": "#" },
+        { "linkId": "li2", "title": "Our Work", "href": "#" },
+        { "linkId": "li3", "title": "About Us", "href": "#" },
+        { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
+      ]
+    },
+    "bannerData": {
+      "companyName": "Render Webpage using JavaScript Object",
+      "tagline": "using modular code for page rendering",
+      "cta": "Contact Us",
+      "href": "#",
+      "bannerImage": "https://niravkpatel28.github.io/github-image-repository/webpage/banner2.png"
+  },
+  "FooterData":{
+      "FootLinks":[
+          {
+              "linkId":"link1",
+              "href":"",
+              "class":["fa","fa-linkedin","fa-2x"]
+          },
+          {
+              "linkId":"link2",
+              "href":"",
+              "class":["fa","fa-github","fa-2x"]
+          },
+          {
+              "linkId":"link3",
+              "href":"",
+              "class":["fa","fa-facebook","fa-2x"]
+          }
+      ],
+     "Copyright":"©2021 Surfboard"
+  }
+
+}
